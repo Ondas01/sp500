@@ -1,4 +1,3 @@
-# sp500
 <!DOCTYPE html>
 <html lang="en">
 <head>
